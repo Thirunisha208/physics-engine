@@ -1,0 +1,21 @@
+Matter.js library   - Physic engine: allows us to create real life objects.
+
+Matter{
+  Engine{
+        create()
+  } 
+
+  Bodies{
+
+  } 
+  World{
+
+  }
+}
+
+
+Matter.Engine //Module name starts with capital letter.
+Matter.Bodies
+Matter.World
+
+give nick names => namespacing
